@@ -20,7 +20,9 @@ Windows
 In git bash you will have to type:
 
            Git clone https://github.com/GamerTwarit/Spammer-python
+
            Cd Spammer-python
+
            Python spam.py
 
 Same thing in Linux but in terminal
