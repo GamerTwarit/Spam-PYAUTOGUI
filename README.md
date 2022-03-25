@@ -21,7 +21,9 @@ In git bash you will have to type:
 
            Git clone https://github.com/GamerTwarit/Spammer-python
 To clone ☝
+
            Cd Spammer-python
+
 To change dir to run☝
 
            Python spam.py
