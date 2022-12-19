@@ -28,6 +28,8 @@ To change dir to run☝
 then install th requirment by
 
            pip install pyautogui
+           
+ and then
 
            Python spam.py
 To run👆
