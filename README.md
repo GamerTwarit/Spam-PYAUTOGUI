@@ -26,6 +26,7 @@ To clone ☝
 
 To change dir to run☝
 then install th requirment by
+
            pip install pyautogui
 
            Python spam.py
