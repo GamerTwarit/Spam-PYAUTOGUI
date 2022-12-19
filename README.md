@@ -25,6 +25,8 @@ To clone ☝
            Cd Spammer-python
 
 To change dir to run☝
+then install th requirment by
+           pip install pyautogui
 
            Python spam.py
 To run👆
