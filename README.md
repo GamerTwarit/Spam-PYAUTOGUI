@@ -17,19 +17,20 @@ Spam.py can installed in windows and debian based softwares
 Windows
 
 
-In git bash you will have to type:
+create a folder and open cmd on it 
 
            Git clone https://github.com/GamerTwarit/Spammer-python
+           
 To clone ☝
 
            Cd Spammer-python
 
 To change dir to run☝
-then install th requirment by
+then install the requirment by going into the folder and double clicking "requirement.bat"
 
-           pip install pyautogui
+after installation run :-
            
- and then
+
 
            Python spam.py
 To run👆
